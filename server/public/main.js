@@ -138,6 +138,12 @@ function Carousel(props) {
     className: "d-block w-100",
     src: "/images/iso-republic-rustic-pine-boards.jpg",
     alt: "pine boards"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "carousel-item"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "d-blovk w-100",
+    src: "/images/iso-republic-warm-summer-ocean-sunset-waves.jpg",
+    alt: "ocean sunset"
   })))));
 }
 
