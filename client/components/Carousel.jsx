@@ -3,7 +3,11 @@ import React from 'react';
 function Carousel(props) {
   return (
     <React.Fragment>
-      <div> I am a carousel </div>
+      <div className="carousel slide" id="example-carousel" data-ride="carousel">
+        <div className="carousel-inner">
+
+        </div>
+      </div>
     </React.Fragment>
   );
 }
